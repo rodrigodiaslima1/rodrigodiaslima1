@@ -1,9 +1,7 @@
 ### Hi there 😎
 
-- 🔭 I’m currently working on my 'DayTrader' Calculator
-- 🌱 I’m currently learning technologies related to BackEnd
-- 👯 I’m looking to collaborate on any project related with BackEnd
-- 😄 Pronouns: he/him
+- Studying Java, Python and their relative back-end frameworks Spring and Django/Flask
+- Follow my computer/mining rig building project at www.tvvvvc.com
 
 ## Rodrigo Dias Lima: 
 <div align="center">
