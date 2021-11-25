@@ -1,7 +1,7 @@
 ### Type Voracious Code 😎
 
 - Studying Java, Python and their relative back-end frameworks Spring and Django/Flask
-- Follow my computer/mining rig building project at www.tvvvvc.com
+- Check out my crypto mining company at www.tvvvvc.com
 
 ## Rodrigo Dias Lima: 
 <div align="center">
