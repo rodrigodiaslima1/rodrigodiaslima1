@@ -14,8 +14,11 @@
   ##
  
 <div> 
-  <a href = "mailto:rodrigodiaslima1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- 
+ <a href = "mailto:rodrigodiaslima1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-dias-lima-1a0191200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+-->
+ 
   <a href="https://www.youtube.com/channel/UCa7HpkUTNYhTpWNXb7VX-pg" target="_blank"><img src="https://img.shields.io/static/v1?label=Youtube&message=Type Voracious Code&color=red" target="_blank"></a>
  
 </div>
