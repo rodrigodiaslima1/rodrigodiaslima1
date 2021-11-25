@@ -2,8 +2,6 @@
 
 - Studying Java, Python and their relative back-end frameworks Spring and Django/Flask
 - Check out my crypto mining company at www.tvvvvc.com
-
-## Rodrigo Dias Lima: 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
