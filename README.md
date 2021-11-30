@@ -1,24 +1,27 @@
-### Type Voracious Code 😎
+### -- Tvc Computers --
 
-- Studying Java, Python and their relative back-end frameworks Spring and Django/Flask
-- Check out my crypto mining company at www.tvvvvc.com
-  
+- Back-End Development
+- Java: Spring
+- Python: Flask, Django
+- Building Computers (instagram)
+- Mining Rigs
+
+<h3>_____________________________________________________________________________________________________________</h3>
+
 <div style="display: inline_block"><br>
-  <a href="https://www.youtube.com/watch?v=nhrPfwoxOWE&list=PL26Z39k3KtC4vPqpvp3rMwRftnhXLfpLT"><img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/></a>
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-  <!--<img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
+  <a href="https://www.youtube.com/playlist?list=PLHF7bmjmc5dK4z91VhvlfGT_31F1SPxSJ"><img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
+  <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
+  <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
 </div>
-  
-  ##
- 
+
+<br>
+
 <div> 
-  <!-- 
- <a href = "mailto:rodrigodiaslima1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UC99hYHea_wH84-PEMxl9GpQ/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/tvc_computers/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@tvvvvc.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-dias-lima-1a0191200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
--->
- 
-  <a href="https://www.youtube.com/channel/UCa7HpkUTNYhTpWNXb7VX-pg" target="_blank"><img src="https://img.shields.io/static/v1?label=Youtube&message=Type Voracious Code&color=red" target="_blank"></a>
  
 </div>
