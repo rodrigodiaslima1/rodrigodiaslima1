@@ -5,6 +5,8 @@
 - Python: Flask, Django
 - Building Computers (instagram)
 - Mining Rigs
+- Tvc Computers is my project (its a company also).
+- Tvc Computers GitHub (basically is the same as this one): https://github.com/TvcComputers
 
 <h3>_____________________________________________________________________________________________________________</h3>
 
