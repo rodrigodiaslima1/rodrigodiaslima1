@@ -1,4 +1,4 @@
-<img src="https://static.wixstatic.com/media/920314_ac833fc044754946a8f01d51f0193b83~mv2.jpg/v1/fill/w_85,h_45,al_c,q_80,usm_0.66_1.00_0.01/tvvvvc%20-%20logo%202_edited.webp">
+<h1>Tvc Computers </h1>
 
 <p><em>"Hello, welcome to my gitHub page. Now I'm living in São Paulo, Brazil. I have just droped the Information Systems university course so I can focus all my available time to learn and improve my abilities related with programming, and in a narrower perspective, with the Back-end development. From Flask to Spring, running across Python and Java, here I upload my code. 
 <br><br>
@@ -10,16 +10,18 @@ Feel free to use any piece of code available here. Also, if you have any questio
 Hope you guys like my work. See you!!</em></p>
 <h4><em>Type Voracious Code!</em></h4>
 <h4>Rodrigo Dias Lima</h4>
+<img src="https://static.wixstatic.com/media/920314_ac833fc044754946a8f01d51f0193b83~mv2.jpg/v1/fill/w_85,h_45,al_c,q_80,usm_0.66_1.00_0.01/tvvvvc%20-%20logo%202_edited.webp" width="70">
 
 <br>
-
-- Back-End Development
-- Java: Spring
-- Python: Flask, Django
-- Building Computers (instagram)
-- Mining Rigs
-- Tvc Computers is my project (its a company also).
-- Tvc Computers GitHub (basically is the same as this one): https://github.com/TvcComputers
+<ul>
+  <li>Back-End Development</li>
+  <li>Java: Spring</li>
+  <li>Python: Flask, Django</li>
+  <li>Building Computers (instagram)</li>
+  <li>Mining Rigs</li>
+  <li>Tvc Computers is my project (its a company also).</li>
+  <li>Tvc Computers GitHub (basically is the same as this one): https://github.com/TvcComputers</li>
+</ul>
 
 <h3>_____________________________________________________________________________________________________________</h3>
 
