@@ -1,4 +1,17 @@
-### -- Tvc Computers --
+<h1> -- Tvc Computers --</h1>
+
+<p><em>"Hello, welcome to my gitHub page. Now I'm living in São Paulo, Brazil. I have just droped the Information Systems university course so I can focus all my available time to learn and improve my abilities related with programming, and in a narrower perspective, with the Back-end development. From Flask to Spring, running across Python and Java, here I upload my code. 
+<br><br>
+As a way to keep learning, practicing and improving coding, I designed a youtube channel (actually there are two, but they have the same content). One of the main reasons, that I realized only after stating it, to build this project is not only to help other people, but also it works as a "tutorial" for myself. Many times when I'm coding and I deal with something which I know I have already done in the past but I'm not sure now, and then I remember that I have a video about it, its very helpful. So, in the link below you can access the channel.
+<br><br>
+In my free time I like to build some stuff related with computers ... I mean build computers. More precisely Mining Rigs. So at Tvc Computers, this is exactly what I do. You can check my work at the Instagram link below, or at the website www.tvvvvc.com
+<br><br>
+Feel free to use any piece of code available here. Also, if you have any question or just want to chat about code, please be my guest!
+Hope you guys like my work. See you!!</em></p>
+<h4><em>Type Voracious Code!</em></h4>
+<h4>Rodrigo Dias Lima</h4>
+
+<br>
 
 - Back-End Development
 - Java: Spring
