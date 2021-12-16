@@ -1,6 +1,8 @@
 <h1>Tvc Computers </h1>
 
-<p><em>"Hello, welcome to my gitHub page. Now I'm living in São Paulo, Brazil. I have just droped the Information Systems university course so I can focus all my available time to learn and improve my abilities related with programming, and in a narrower perspective, with the Back-end development. From Flask to Spring, running across Python and Java, here I upload my code. 
+<p><em>"Hello, my name is Rodrigo Dias Lima, welcome to my gitHub page! 
+<br><br>
+Now I'm living in São Paulo, Brazil. I have just droped the Information Systems university course so I can focus all my available time to learn and improve my abilities related with programming, and in a narrower perspective, with the Back-end development. From Flask to Spring, running across Python and Java, here I upload my code. 
 <br><br>
 As a way to keep learning, practicing and improving coding, I designed a youtube channel (actually there are two, but they have the same content). One of the main reasons, that I realized only after stating it, to build this project is not only to help other people, but also it works as a "tutorial" for myself. Many times when I'm coding and I deal with something which I know I have already done in the past but I'm not sure now, and then I remember that I have a video about it, its very helpful. So, in the link below you can access the channel.
 <br><br>
