@@ -1,4 +1,4 @@
-<h1> -- Tvc Computers --</h1>
+<img src="https://static.wixstatic.com/media/920314_ac833fc044754946a8f01d51f0193b83~mv2.jpg/v1/fill/w_85,h_45,al_c,q_80,usm_0.66_1.00_0.01/tvvvvc%20-%20logo%202_edited.webp">
 
 <p><em>"Hello, welcome to my gitHub page. Now I'm living in São Paulo, Brazil. I have just droped the Information Systems university course so I can focus all my available time to learn and improve my abilities related with programming, and in a narrower perspective, with the Back-end development. From Flask to Spring, running across Python and Java, here I upload my code. 
 <br><br>
