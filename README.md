@@ -2,14 +2,26 @@
 
 <p><em>"Hello, my name is Rodrigo Dias Lima, welcome to my gitHub page! 
 <br><br>
-Now I'm living in São Paulo, Brazil. I have just droped the Information Systems university course so I can focus all my available time to learn and improve my abilities related with programming, and in a narrower perspective, with the Back-end development. From Flask to Spring, running across Python and Java, here I upload my code. 
+  <h3>Who am I?</h3>
+<em>"I'm from São Paulo, Brazil. I'm a self-taught Software Developement student. My main focus is to learn stuff related with back-end solutions. So, from Flask to Spring, walking through Python and Java, I always keep myself in touch with those technologies. Being a solo student is not that easy, so it's necessary to always being related with the learning processes, and to achieve this I'm always searching and enrolling myself in the best courses and projects available."</em>
+  
 <br><br>
-As a way to keep learning, practicing and improving coding, I designed a youtube channel (actually there are two, but they have the same content). One of the main reasons, that I realized only after stating it, to build this project is not only to help other people, but also it works as a "tutorial" for myself. Many times when I'm coding and I deal with something which I know I have already done in the past but I'm not sure now, and then I remember that I have a video about it, its very helpful. So, in the link below you can access the channel.
+  <h3>this.channel():</h3>
+<em>"The this.channel() is my Youtube channel related with coding. There I frequently upload videos about the programming stuff which I'm studying, working with or maybe just refreshing my knowledge. I realized that keeping my code's videos available there in the channel, wasn't just good for people who could eventually learn something, but also was a very goud source for myself every time I would face some feature which I knew I had tackled, but just couldn't recall at the moment. So, there was some video of mine available to consultation. And it's nice the fact that sometimes you are going to have the same doubts about a subject. So hope you enjoy content there."</em>
 <br><br>
-In my free time I like to build some stuff related with computers ... I mean build computers. More precisely Mining Rigs. So at Tvc Computers, this is exactly what I do. You can check my work at the Instagram link below, or at the website www.tvvvvc.com
+  
+  <h3>Tvc Computers:</h3>
+<em>"Tvc is a project related with building a Mining Rig. So in my free time I like to research about computers, investmts (specially cryptocurrencies) and so on.
+  So you can check my work in this field in the Tvc Computers Instagram and also website."</em>
 <br><br>
-Feel free to use any piece of code available here. Also, if you have any question or just want to chat about code, please be my guest!
-Hope you guys like my work. See you!!</em></p>
+  <h3>Overal Considerations:</h3>
+<em>"Feel free to use any piece of code available here. Also, if you have any question or just want to chat about code, be my guest!
+  You can find all my contacts in this page."</em>
+  
+  <br><br>
+  
+  <em>Hope you enjoy the content. <br>
+    See you!</em>
 
 <h4>Rodrigo Dias Lima</h4>
 
