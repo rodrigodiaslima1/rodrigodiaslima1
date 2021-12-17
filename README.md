@@ -7,7 +7,7 @@
   
 <br><br>
   <h3>this.channel():</h3>
-<em>"The this.channel() is my Youtube channel related with coding. There I frequently upload videos about the programming stuff which I'm studying, working with or maybe just refreshing my knowledge. I realized that keeping my code's videos available there in the channel, wasn't just good for people who could eventually learn something, but also was a very goud source for myself every time I would face some feature which I knew I had tackled, but just couldn't recall at the moment. So, there was some video of mine available to consultation. And it's nice the fact that sometimes you are going to have the same doubts about a subject. So hope you enjoy content there."</em>
+<em>"The <strong>this.</strong>channel() is my Youtube channel related with coding. There I frequently upload videos about the programming stuff which I'm studying, working with or maybe just refreshing my knowledge. I realized that keeping my code's videos available there in the channel, wasn't just good for people who could eventually learn something, but also was a very goud source for myself every time I would face some feature which I knew I had tackled, but just couldn't recall at the moment. So, there was some video of mine available to consultation. And it's nice the fact that sometimes you are going to have the same doubts about a subject. So hope you enjoy content there."</em>
 <br><br>
   
   <h3>Tvc Computers:</h3>
