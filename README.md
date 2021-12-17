@@ -14,7 +14,7 @@
 <em>"Tvc is a project related with building a Mining Rig. So in my free time I like to research about computers, investmts (specially cryptocurrencies) and so on.
   So you can check my work in this field in the Tvc Computers Instagram and also website."</em>
 <br><br>
-  <h3>Overal Considerations:</h3>
+  <h3>Overall Considerations:</h3>
 <em>"Feel free to use any piece of code available here. Also, if you have any question or just want to chat about code, be my guest!
   You can find all my contacts in this page."</em>
   
