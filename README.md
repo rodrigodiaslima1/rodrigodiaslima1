@@ -10,20 +10,8 @@ In my free time I like to build some stuff related with computers ... I mean bui
 <br><br>
 Feel free to use any piece of code available here. Also, if you have any question or just want to chat about code, please be my guest!
 Hope you guys like my work. See you!!</em></p>
-<h4><em>Type Voracious Code!</em></h4>
+
 <h4>Rodrigo Dias Lima</h4>
-
-
-<br><br>
-<ul>
-  <li>Back-End Development</li>
-  <li>Java: Spring</li>
-  <li>Python: Flask, Django</li>
-  <li>Building Computers (instagram)</li>
-  <li>Mining Rigs</li>
-  <li>Tvc Computers is my project (its a company also).</li>
-  <li>Tvc Computers GitHub (basically is the same as this one): https://github.com/TvcComputers</li>
-</ul>
 
 <h3>_____________________________________________________________________________________________________________</h3>
 
