@@ -3,7 +3,7 @@
 <p><em>"Hello, my name is Rodrigo Dias Lima, welcome to my gitHub page! 
 <br><br>
   <h3>Who am I?</h3>
-<em>"I'm from São Paulo, Brazil. I'm a self-taught Software Developement student. My main focus is to learn stuff related with back-end development. So, from Flask to Spring, walking through Python and Java, I always keep myself in touch with those technologies. Being a solo student is not that easy, so it's necessary to always being related with the learning processes, and to achieve this I'm always searching and enrolling myself in the best courses and projects available."</em>
+<em>"I'm a self-taught software development student from São Paulo, Brazil. My main focus is to learn stuff related with back-end development. So, from Flask to Spring, walking through Python and Java, I always keep myself in touch with those technologies. Being a solo student is not that easy, so it's necessary to always being related with the learning processes, and to achieve this I'm always searching and enrolling myself in the best courses and projects available."</em>
   
 <br><br>
   <h3>this.channel():</h3>
