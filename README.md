@@ -25,7 +25,7 @@
 
 <h4>Rodrigo Dias Lima</h4>
 
-<h3>_____________________________________________________________________________________________________________</h3>
+<h3>______________________________________________________________________________________________________</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
