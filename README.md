@@ -1,20 +1,17 @@
-<h1>Welcome!</h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8qBkEH8XVd_UITGXPvIt5D77O1n5zgwn37lHWl5630jhSBNJ_AkXZQzExQZUtiarb-IU&usqp=CAU)" width="100">
+<h1>Rodrigo Dias Lima</h1>
 
-<p><em>"Hello, my name is Rodrigo Dias Lima, welcome to my gitHub page! 
-<br><br>
-  <h3>Who am I?</h3>
-<em>"I'm a self-taught software development student from São Paulo, Brazil. My main focus is to learn stuff related with back-end development. So, from Flask to Spring, walking through Python and Java, I always keep myself in touch with those technologies. Being a solo student is not that easy, so it's necessary to always being related with the learning processes, and to achieve this I'm always searching and enrolling myself in the best courses and projects available."</em>
+<p><em>My name is Rodrigo Dias Lima, I'm a 33 years old back-end programmer working mainly with Java and SpringFramework.
+  Lately, I've studied some other technologies and their respective back-end frameworks, such as Python/Django and JavaScript/NodeJS. I'm also enrolled
+  in some front-end courses, so one day I can become a full-stack.</em></p>
+<p>---</p>
+<br>
 
-  <br><br>
-<em>"Feel free to use any piece of code available here. Also, if you have any question or just want to chat about code, be my guest!
-  You can find all my contacts in this page."</em>
-  
-  <br><br>
-  
-  <em>Hope you enjoy the content. <br>
-    See you!</em>
+rodrigodiaslima1@gmail.com<br>
+Tvc Software - Type Voracious Code<br>
+<em>Rodrigo Dias Lima</em><br>
 
-<h4>Rodrigo Dias Lima</h4>
+27-10-2022
 
 <h3>______________________________________________________________________________________________________</h3>
 
@@ -33,3 +30,8 @@
  <a href="https://www.hackerrank.com/rodrigodiaslima1" target=""><img src="https://img.shields.io/static/v1?label=HackerRank&message=rodrigodiaslima1&color=green" target="" width="250"></a> 
   
 </div>
+
+
+
+
+
