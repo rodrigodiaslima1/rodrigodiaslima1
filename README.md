@@ -1,6 +1,5 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8qBkEH8XVd_UITGXPvIt5D77O1n5zgwn37lHWl5630jhSBNJ_AkXZQzExQZUtiarb-IU&usqp=CAU)" width="100">
 <h1>Rodrigo Dias Lima</h1>
-
 <p><em>My name is Rodrigo Dias Lima, I'm a 33 years old back-end programmer working mainly with Java and SpringFramework.
   Lately, I've studied some other technologies and their respective back-end frameworks, such as Python/Django and JavaScript/NodeJS. I'm also enrolled
   in some front-end courses, so one day I can become a full-stack.</em></p>
@@ -13,7 +12,7 @@ Tvc Software - Type Voracious Code<br>
 
 27-10-2022
 
-<h3>______________________________________________________________________________________________________</h3>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
